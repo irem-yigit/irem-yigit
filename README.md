@@ -28,4 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irem-yigit&" alt="irem-yigit" /></p>
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/irem-yigit/irem-yigit/blob/output/github-contribution-grid-snake.gif)
