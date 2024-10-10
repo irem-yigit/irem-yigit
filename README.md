@@ -1,4 +1,5 @@
- [![MasterHead](https://github.com/irem-yigit/irem-yigit/blob/main/img/software-development-specialist.jpg)
+![](https://komarev.com/ghpvc/?username=irem-yigit&color=blue)
+
 <h1 align="center">Hi 👋, I'm İrem Yiğit</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
