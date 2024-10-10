@@ -1,4 +1,5 @@
  [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.starkcloud.com%2Fhubfs%2FImported_Blog_Media%2FDesarrollo-de-Software.webp&tbnid=yxFtlb5iGtQDMM&vet=12ahUKEwj-qa-vyoSJAxXWd_EDHSl1GD8QxiAoBHoECAAQLQ..i&imgrefurl=https%3A%2F%2Fwww.starkcloud.com%2Fen%2Fstarkcloud-blog%2Fwhat-is-software-development&docid=x-1msUjYRC6sqM&w=800&h=450&itg=1&q=software%20%20developer%20images&ved=2ahUKEwj-qa-vyoSJAxXWd_EDHSl1GD8QxiAoBHoECAAQLQ)
+ ![](https://komarev.com/ghpvc/?username=irem-yigit&color=blue)
 <h1 align="center">Hi 👋, I'm İrem Yiğit</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
