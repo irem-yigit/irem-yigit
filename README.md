@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **https://about.me/iremyigit/getstarted**
 
 - 📫 How to reach me **yigitiremm@gmail.com**
 
