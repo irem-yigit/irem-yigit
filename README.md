@@ -6,15 +6,15 @@
  </a>
 </div>
 
-<h3 align="left">&nbsp; A passionate backend developer from Turkey</h3>
+<h3 align="left">&nbsp; A passionate Software Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Java, Spring Boot**
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently learning **Java, Spring Boot and other software technologies**
 
-- 💬 Ask me about **https://about.me/iremyigit/getstarted**
+- 💬 Ask me about **all about software technologies**
 
-- 📫 How to reach me **yigitiremm@gmail.com**
+- 📫 How to reach me: **yigitiremm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
