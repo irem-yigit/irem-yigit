@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Java, Spring Boot**
 
-- 🌱 I’m currently learning **Java, Spring Boot and other software technologies**
+- 🌱 I’m learning **Java, Spring Boot, JavaScript, React and other software technologies**
 
 - 💬 Ask me about **all about software technologies**
 
