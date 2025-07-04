@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=irem-yigit&color=blue)
-
-<h3 align="left">&nbsp; A passionate Software Developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm İrem</h1>
+<h3 align="left">&nbsp; A passionate Full-Stack Software Engineer from Turkey</h3>
 
 - 🔭 I’m currently working on **Java, Spring Boot**
 
-- 🌱 I’m learning **Java, Spring Boot, JavaScript, React and other software technologies**
+- 🌱 I’m learning **SpringBoot, JavaScript, React, Redis, Kafka and other software technologies**
 
 - 💬 Ask me about **all about software technologies**
 
